@@ -16,8 +16,6 @@ Certifique-se de ter o Node.js instalado: https://nodejs.org/
 2. Abra o aplicativo em um navegador: `http://localhost:3000`
 
 
-
-
 ## Contribuição
 
 Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga as etapas abaixo:
@@ -33,6 +31,15 @@ Por favor, certifique-se de seguir as diretrizes de contribuição e o código d
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, entre em contato com [hugo_xr@hotmail.com]
+
+
+## Stacks usadas
+
+HTML
+JavaScript
+NodeJS
+WebSockets (socket.io)
+
 
 
 
